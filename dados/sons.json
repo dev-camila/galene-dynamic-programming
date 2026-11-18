@@ -1,0 +1,18 @@
+{
+  "descricao": "Biblioteca de sons do Galene Player, com a afinidade de um perfil de exemplo. Usada pela Playlist de Foco.",
+  "fonte": "Dados SIMULADOS pelo grupo. Os nomes das faixas foram inventados e a afinidade (1 a 5) representa as respostas de um questionário de perfil fictício. Nenhum dado real ou pessoal.",
+  "sons": [
+    {"id": 1,  "nome": "Ondas Alfa 10 Hz",          "tipo": "binaural",     "duracao_min": 15, "afinidade": 4},
+    {"id": 2,  "nome": "Ondas Beta para Leitura",   "tipo": "binaural",     "duracao_min": 20, "afinidade": 3},
+    {"id": 3,  "nome": "Lo-fi Café da Manhã",       "tipo": "lofi",         "duracao_min": 12, "afinidade": 5},
+    {"id": 4,  "nome": "Lo-fi Chuva na Janela",     "tipo": "lofi",         "duracao_min": 18, "afinidade": 4},
+    {"id": 5,  "nome": "Lo-fi Biblioteca Noturna",  "tipo": "lofi",         "duracao_min": 25, "afinidade": 3},
+    {"id": 6,  "nome": "Ruído Rosa Suave",          "tipo": "mascaramento", "duracao_min": 30, "afinidade": 3},
+    {"id": 7,  "nome": "Ruído Marrom Profundo",     "tipo": "mascaramento", "duracao_min": 20, "afinidade": 4},
+    {"id": 8,  "nome": "Ventilador Constante",      "tipo": "mascaramento", "duracao_min": 10, "afinidade": 2},
+    {"id": 9,  "nome": "Chuva Leve na Mata",        "tipo": "natureza",     "duracao_min": 15, "afinidade": 5},
+    {"id": 10, "nome": "Riacho e Pássaros",         "tipo": "natureza",     "duracao_min": 22, "afinidade": 3},
+    {"id": 11, "nome": "Mar Calmo de Galene",       "tipo": "natureza",     "duracao_min": 16, "afinidade": 4},
+    {"id": 12, "nome": "Teta 6 Hz para Relaxar",    "tipo": "binaural",     "duracao_min": 10, "afinidade": 2}
+  ]
+}
